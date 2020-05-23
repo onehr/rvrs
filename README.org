@@ -1,0 +1,7 @@
+#+TITLE: rvrs -- riscv emulator in rust
+* Overview
+This is a simple RISC-V emulator written in Rust, should be able to run Linux
+Kernel on top of this.
+
+* References
+[[http://riscvbook.com/chinese/][The RISC-V Reader: An Open Architecture Atlas (Chinese Translation)]]
